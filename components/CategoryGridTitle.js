@@ -1,12 +1,16 @@
 import { View, Text, Pressable, StyleSheet, Platform } from "react-native";
 import React from "react";
 
-export default function CategoryGridTitle({ title, color }) {
+export default function CategoryGridTitle({ title, color, onPressed }) {
   return (
     <View style={styles.gridItem}>
       <Pressable 
         android_ripple={{color:'#ccc'}} 
-        style={({pressed}) => [styles.button, pressed ? styles.buttonPressed : null ]}
+        style={({pressed}) => 
+        [styles.button, 
+          pressed ? styles.buttonPressed : null 
+        ]}
+        onPress={onPressed}
         >
         <View style={[styles.itemContainer, {backgroundColor:color}]}>
           <Text style={styles.title}>{title}</Text>
