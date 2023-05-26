@@ -18,7 +18,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/foodie-recipes.git
+git clone https://github.com/N1k0l1n/FoodNative.git
 Navigate to the project directory:
 
 bash
@@ -73,11 +73,12 @@ Open a pull request.
 #![Capdsature](https://github.com/N1k0l1n/FoodNative/assets/97979235/8cc6085b-ff1e-47bf-928f-0c7d85628168)
 ![Capture](https://github.com/N1k0l1n/FoodNative/assets/97979235/90d2b67d-d187-4e22-a1c8-2c0dbd24488d)
 ![Captursssse](https://github.com/N1k0l1n/FoodNative/assets/97979235/134692ab-69aa-4122-98f9-7a4817345106)
+
 License
 The Foodie Recipes app is open-source software licensed under the MIT License.
 
 Contact
-If you have any questions, suggestions, or feedback, feel free to contact us at your-email@example.com.
+If you have any questions, suggestions, or feedback, feel free to contact us at nikolinandoni80@gmail.com.
 
 Happy cooking with Foodie Recipes!
 
