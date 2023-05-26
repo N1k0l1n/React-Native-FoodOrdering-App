@@ -15,7 +15,7 @@ To run the Foodie Recipes app on your local machine, follow these steps:
 
 Make sure you have Node.js and npm installed on your system.
 
-Clone this repository to your local machine using the following command:
+### Clone this repository to your local machine using the following command:
 
 bash
 Copy code
@@ -27,13 +27,14 @@ Copy code
 cd foodie-recipes
 Install the dependencies by running the following command:
 
-Copy code
+### Copy code
 npm install
-Start the development server:
 
+### Start the development server:
 sql
 Copy code
 npm start
+
 Use the Expo app on your mobile device to scan the QR code displayed in the terminal or the browser.
 
 Note: Make sure your mobile device and development machine are on the same network.
@@ -71,7 +72,7 @@ Open a pull request.
 
 ## Please ensure that your code follows the existing coding style and conventions.
 
-#![Capdsature](https://github.com/N1k0l1n/FoodNative/assets/97979235/8cc6085b-ff1e-47bf-928f-0c7d85628168)
+![Capdsature](https://github.com/N1k0l1n/FoodNative/assets/97979235/8cc6085b-ff1e-47bf-928f-0c7d85628168)
 ![Capture](https://github.com/N1k0l1n/FoodNative/assets/97979235/90d2b67d-d187-4e22-a1c8-2c0dbd24488d)
 ![Captursssse](https://github.com/N1k0l1n/FoodNative/assets/97979235/134692ab-69aa-4122-98f9-7a4817345106)
 
