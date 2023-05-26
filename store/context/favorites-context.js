@@ -22,10 +22,14 @@ function FavoritesContextProvider({ children }) {
   const values = {
     ids: favoriteMealIds,
     addFavorite: addFavorites,
-    removeFavorite: removeFavorites
+    removeFavorite: removeFavorites,
   };
 
-  return <FavoritesContext.Provider value={values}>{children}</FavoritesContext.Provider>;
+  return (
+    <FavoritesContext.Provider value={values}>
+      {children}
+    </FavoritesContext.Provider>
+  );
 }
 
 export default FavoritesContextProvider;
